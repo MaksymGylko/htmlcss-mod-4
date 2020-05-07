@@ -11,6 +11,7 @@ ul, ol {
 
 img {
     display: block;
+    object-fit: cover;
 }
 
 .wrapper {
@@ -93,7 +94,6 @@ h2::after {
 .product {
     display: inline-block;
     max-width: 255px;
-    height: 320px;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -150,7 +150,6 @@ a>img {
 .news-sections {
     display: inline-block;
     width: 348px;
-    height: 496px;
 }
 
 .news-sections:not(:last-child) {
