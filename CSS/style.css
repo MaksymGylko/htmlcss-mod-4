@@ -127,7 +127,6 @@ a>img {
 
 .product-page:hover .about-product {
     background-color: #1abc9c;
-    transform: translateY(1);
 }
 
 .product-name {
